@@ -1,0 +1,8 @@
+import java.util.Scanner;
+
+public class task1 {
+    public static void main(String[]args){
+        Scanner input = new Scanner(System.in);
+        System.out.print("Input array size: ");
+        int n = input.nextInt();
+}
