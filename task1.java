@@ -7,4 +7,5 @@ public class task1 {
         int n = input.nextInt();
         int pr = 1;
         int sum = 0;
+        int[]arr = new int[n+1];
 }
