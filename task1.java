@@ -5,4 +5,6 @@ public class task1 {
         Scanner input = new Scanner(System.in);
         System.out.print("Input array size: ");
         int n = input.nextInt();
+        int pr = 1;
+        int sum = 0;
 }
