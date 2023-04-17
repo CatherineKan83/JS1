@@ -12,4 +12,5 @@ public class task1 {
             arr[i]=i;   pr = pr*arr[i];   sum = sum +arr[i];
         }
         System.out.print("Product = " + pr + "\nTriangular number = " + sum);
+        input.close();
 }
