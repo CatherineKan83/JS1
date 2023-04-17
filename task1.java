@@ -13,4 +13,5 @@ public class task1 {
         }
         System.out.print("Product = " + pr + "\nTriangular number = " + sum);
         input.close();
+    }
 }
